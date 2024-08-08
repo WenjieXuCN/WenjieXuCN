@@ -1,6 +1,6 @@
 <!--init information-->
 <h1 align="left">Hi 👋, I'm
-    <a href="https://WenjieXu2000.github.io/" target="_blank"> Wenjie Xu (Wayne) </a>
+    <a href="https://wenjiexucn.github.io/" target="_blank"> Wenjie Xu (Wayne) </a>
 </h1>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Hi">
@@ -17,7 +17,7 @@ mitigation.
 - ⚡ I have a strong passion for programming and software development, and I enjoy using these skills to create
 innovative tools that address real-world challenges.
 
-- 📝 I regularly write articles and share insights on my <a href="https://WenjieXu2000.github.io/"
+- 📝 I regularly write articles and share insights on my <a href="https://wenjiexucn.github.io/"
     target="_blank">personal homepage</a>. Visit to stay updated with my latest research and projects.
 
 - 💬 <em>Feel free to reach out to me with any inquiries at <a

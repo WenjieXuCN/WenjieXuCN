@@ -21,7 +21,7 @@ innovative tools that address real-world challenges.
     target="_blank">personal homepage</a>. Visit to stay updated with my latest research and projects.
 
 - 💬 <em>Feel free to reach out to me with any inquiries at <a
-        href="mailto:wenjie_xu2000@outlook.com">wenjie_xu2000@outlook.com</a>.</em>
+        href="mailto:wenjie.xu.cn@outlook.com">wenjie.xu.cn@outlook.com</a>.</em>
 
 <!--my introduction end -->
 ---

@@ -26,11 +26,11 @@ innovative tools that address real-world challenges.
 <!--my introduction end -->
 ---
 <p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=wenjiexu2000&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=WenjieXuCN&show_icons=true&locale=en&layout=compact"
         alt="Wenjie Xu's Stats" /></p>
 
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=wenjiexu2000&show_icons=true&locale=en"
+        src="https://github-readme-stats.vercel.app/api?username=WenjieXuCN&show_icons=true&locale=en"
         alt="Wenjie Xu's Stats" /></p>
 
 ---

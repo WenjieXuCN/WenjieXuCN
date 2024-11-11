@@ -25,14 +25,18 @@ innovative tools that address real-world challenges.
 
 <!--my introduction end -->
 ---
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=WenjieXuCN&show_icons=true&locale=en&layout=compact"
-        alt="Wenjie Xu's Stats" /></p>
+<a href="https://github.com/WenjieXuCN/WenjieXuCN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WenjieXuCN&show_icons=true&locale=en&layout=compact&hide=SCSS,Liquid,CSS,Shell,Dockerfile,Fluent,Ruby&theme=catppuccin_latte" />
+</a>
+<a href="https://github.com/WenjieXuCN/WenjieXuCN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WenjieXuCN&show_icons=true&locale=en&count_private=true&theme=catppuccin_latte" />
+</a>
 
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=WenjieXuCN&show_icons=true&locale=en"
-        alt="Wenjie Xu's Stats" /></p>
-
+<!-- Top respositories
+<p><img align="center"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats"
+        alt="Wenjie Xu Most Used Languages" /></p>
+-->
 ---
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"

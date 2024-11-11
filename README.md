@@ -26,10 +26,10 @@ innovative tools that address real-world challenges.
 <!--my introduction end -->
 ---
 <a href="https://github.com/WenjieXuCN/WenjieXuCN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WenjieXuCN&show_icons=true&locale=en&layout=compact&hide=SCSS,Liquid,CSS,Shell,Dockerfile,Fluent,Ruby&theme=catppuccin_latte" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WenjieXuCN&show_icons=true&locale=en&layout=compact&hide=SCSS,Liquid,CSS,Shell,Dockerfile,Fluent,Ruby" />
 </a>
 <a href="https://github.com/WenjieXuCN/WenjieXuCN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WenjieXuCN&show_icons=true&locale=en&count_private=true&theme=catppuccin_latte" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WenjieXuCN&show_icons=true&locale=en&count_private=true" />
 </a>
 
 <!-- Top respositories
